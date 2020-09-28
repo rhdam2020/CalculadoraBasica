@@ -1,2 +1,2 @@
 # CalculadoraBasica
-Ejercicio de la calculdora Basica hecha en java para android
+Ejercicio de la calculdora basica hecha en java para android
