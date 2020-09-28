@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="out1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CalculadoraBasica/app/build/intermediates/project_dex_archive/debug/out/61adf318570f93657dd7420f0cef23121a64887cdbd83db27e221da89e0942c6_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CalculadoraBasica/app/build/intermediates/project_dex_archive/debug/out/61adf318570f93657dd7420f0cef23121a64887cdbd83db27e221da89e0942c6_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CalculadoraBasica/app/build/intermediates/project_dex_archive/debug/out/61adf318570f93657dd7420f0cef23121a64887cdbd83db27e221da89e0942c6_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CalculadoraBasica/app/build/intermediates/project_dex_archive/debug/out/61adf318570f93657dd7420f0cef23121a64887cdbd83db27e221da89e0942c6_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
